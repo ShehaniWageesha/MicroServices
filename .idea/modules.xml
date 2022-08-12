@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cart-service/cart-service.iml" filepath="$PROJECT_DIR$/cart-service/cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delivery-service/delivery-service.iml" filepath="$PROJECT_DIR$/delivery-service/delivery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ecommerce-microservices-master.iml" filepath="$PROJECT_DIR$/.idea/ecommerce-microservices-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location-service/location-service.iml" filepath="$PROJECT_DIR$/location-service/location-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wishlist-service/wishlist-service.iml" filepath="$PROJECT_DIR$/wishlist-service/wishlist-service.iml" />
+    </modules>
+  </component>
+</project>
